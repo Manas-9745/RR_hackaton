@@ -1,0 +1,968 @@
+player_id,n_ipl,n_t20i,country,last_ipl_team,last_ipl_season,pakistan,rr_2026,no_t20i_in_pack,name_map
+8,58,0,,Chennai Super Kings,2025,False,False,True,Mahendra Singh Dhoni
+23,27,0,,Mumbai Indians,2024,False,False,True,Piyush Chawla
+28,24,0,,Gujarat Titans,2025,False,False,True,Ishant Sharma
+47,76,17,India,Royal Challengers Bengaluru,2026,False,False,False,Virat Kohli
+88,55,0,,Delhi Capitals,2025,False,False,True,Faf du Plessis
+109,37,0,,Gujarat Titans,2024,False,False,True,Wriddhiman Saha
+126,68,24,India,Mumbai Indians,2026,False,False,False,Rohit Sharma
+142,30,0,,Punjab Kings,2024,False,False,True,Shikhar Dhawan
+143,44,24,India,Royal Challengers Bengaluru,2024,False,False,False,Dinesh Karthik
+147,3,0,,Gujarat Titans,2022,False,False,True,Pradeep Sangwan
+152,68,8,India,Rajasthan Royals,2026,False,True,False,Ravindra Jadeja
+158,8,0,,Lucknow Super Giants,2024,False,False,True,Amit Mishra
+161,10,0,,Chennai Super Kings,2022,False,False,True,Dwayne Bravo
+167,61,0,,Kolkata Knight Riders,2026,False,False,True,Ajinkya Rahane
+169,12,0,,Chennai Super Kings,2022,False,False,True,Robin Uthappa
+198,26,0,,Kolkata Knight Riders,2026,False,False,True,Manish Pandey
+220,34,11,Australia,Delhi Capitals,2024,False,False,False,David Warner
+223,0,15,Australia,,,False,False,False,Steven Smith
+232,0,2,Netherlands,,,False,False,False,Tom Cooper
+250,5,17,Australia,Kolkata Knight Riders,2022,False,False,False,Aaron Finch
+274,0,9,New Zealand,,,False,False,False,Martin Guptill
+278,11,26,New Zealand,Kolkata Knight Riders,2023,False,False,False,Tim Southee
+286,0,9,Australia,,,False,False,False,Kane Richardson
+295,7,11,South Africa,Royal Challengers Bengaluru,2023,False,False,False,Wayne Parnell
+305,54,8,India,Chennai Super Kings,2025,False,False,False,Ravichandran Ashwin
+332,0,9,Sri Lanka,,,False,False,False,Angelo Mathews
+344,5,0,,Kolkata Knight Riders,2022,False,False,True,Sheldon Jackson
+360,74,29,India,Royal Challengers Bengaluru,2026,False,False,False,Bhuvneshwar Kumar
+393,2,0,,Royal Challengers Bengaluru,2023,False,False,True,Kedar Jadhav
+395,22,0,,Mumbai Indians,2025,False,False,True,Karn Sharma
+403,27,2,India,Gujarat Titans,2024,False,False,False,Umesh Yadav
+418,0,6,Scotland,,,False,False,False,Richard Berrington
+443,0,41,Ireland,,,False,False,False,Paul Stirling
+470,0,8,Pakistan,,,True,False,False,Mohammad Amir
+478,0,2,England,,,False,False,False,Eoin Morgan
+479,2,63,England,Sunrisers Hyderabad,2023,False,False,False,Adil Rashid
+492,0,6,West Indies,,,False,False,False,Andre Fletcher
+494,11,8,West Indies,Mumbai Indians,2022,False,False,False,Kieron Pollard
+499,0,18,Bangladesh,,,False,False,False,Shakib Al Hasan
+505,0,2,Bangladesh,,,False,False,False,Mushfiqur Rahim
+507,0,16,Bangladesh,,,False,False,False,Mohammad Mahmudullah
+535,29,0,,Chennai Super Kings,2023,False,False,True,Ambati Rayudu
+722,0,25,England,,,False,False,False,Liam Dawson
+728,0,22,England,,,False,False,False,Dawid Malan
+757,0,3,Netherlands,,,False,False,False,Sybrand Engelbrecht
+768,0,35,South Africa,,,False,False,False,Reeza Hendricks
+772,17,9,South Africa,Punjab Kings,2024,False,False,False,Rilee Rossouw
+773,0,4,United States Of America,,,False,False,False,Shadley Van Schalkwyk
+778,0,4,West Indies,,,False,False,False,Darren Bravo
+781,68,0,,Kolkata Knight Riders,2026,False,False,True,Sunil Narine
+786,10,17,England,Mumbai Indians,2023,False,False,False,Chris Jordan
+796,12,26,Australia,Gujarat Titans,2024,False,False,False,Matthew Wade
+813,73,53,England,Gujarat Titans,2026,False,False,False,Jos Buttler
+818,47,39,Australia,Lucknow Super Giants,2026,False,False,False,Mitchell Marsh
+820,1,0,,Rajasthan Royals,2022,False,False,True,Nathan Coulter Nile
+829,32,9,Australia,Delhi Capitals,2026,False,False,False,Mitchell Starc
+830,40,26,Australia,Royal Challengers Bengaluru,2026,False,False,False,Josh Hazlewood
+838,44,37,Australia,Punjab Kings,2025,False,False,False,Glenn Maxwell
+914,12,0,,Lucknow Super Giants,2024,False,False,True,Krishnappa Gowtham
+930,13,0,,Delhi Capitals,2026,False,False,True,Karun Nair
+953,66,10,India,Delhi Capitals,2026,False,False,False,Lokesh Rahul
+985,0,7,Zimbabwe,,,False,False,False,Brendan Taylor
+988,0,2,Zimbabwe,,,False,False,False,Graeme Cremer
+992,31,0,,Royal Challengers Bengaluru,2025,False,False,True,Mayank Agarwal
+1028,2,0,,Gujarat Titans,2022,False,False,True,Varun Aaron
+1039,6,0,,Kolkata Knight Riders,2023,False,False,True,Mandeep Singh
+1040,5,0,,Punjab Kings,2024,False,False,True,Harpreet Bhatia
+1045,3,0,,Kolkata Knight Riders,2023,False,False,True,David Wiese
+1071,30,0,,Sunrisers Hyderabad,2026,False,False,True,Jaydev Unadkat
+1077,63,25,South Africa,Delhi Capitals,2026,False,False,False,David Miller
+1100,0,6,Sri Lanka,,,False,False,False,Dinesh Chandimal
+1101,0,45,Ireland,,,False,False,False,George Dockrell
+1107,7,51,Afghanistan,Mumbai Indians,2024,False,False,False,Mohammad Nabi
+1109,0,1,Afghanistan,,,False,False,False,Samiullah Shinwari
+1116,0,15,Zimbabwe,,,False,False,False,Craig Ervine
+1159,0,10,Zimbabwe,,,False,False,False,Tendai Chatara
+1171,0,11,England,,,False,False,False,Chris Woakes
+1183,0,9,England,,,False,False,False,Alex Hales
+1187,8,11,England,Kolkata Knight Riders,2023,False,False,False,Jason Roy
+1195,2,3,England,Chennai Super Kings,2023,False,False,False,Ben Stokes
+1205,24,9,England,Mumbai Indians,2025,False,False,False,Jonny Bairstow
+1210,0,5,England,,,False,False,False,James Vince
+1219,8,11,England,Royal Challengers Bengaluru,2023,False,False,False,David Willey
+1233,0,1,Zimbabwe,,,False,False,False,Gary Ballance
+1318,56,12,West Indies,Kolkata Knight Riders,2025,False,False,False,Andre Russell
+1327,0,27,West Indies,,,False,False,False,Johnson Charles
+1389,1,21,Australia,Sunrisers Hyderabad,2022,False,False,False,Sean Abbott
+1440,38,5,India,Chennai Super Kings,2025,False,False,False,Rahul Tripathi
+1481,0,34,Sri Lanka,,,False,False,False,Kusal Perera
+1487,2,26,New Zealand,Rajasthan Royals,2026,False,True,False,Adam Milne
+1541,0,15,Zimbabwe,,,False,False,False,Sean Williams
+1556,2,0,,Sunrisers Hyderabad,2026,False,False,True,David Payne
+1566,55,2,India,Lucknow Super Giants,2026,False,False,False,Mohammed Shami
+1568,16,10,New Zealand,Gujarat Titans,2024,False,False,False,Kane Williamson
+1596,39,34,England,Kolkata Knight Riders,2025,False,False,False,Moeen Ali
+1612,75,28,India,Punjab Kings,2026,False,False,False,Yuzvendra Chahal
+1617,13,0,,Punjab Kings,2024,False,False,True,Rishi Dhawan
+1649,0,5,Zimbabwe,,,False,False,False,Regis Chakabva
+1699,64,79,India,Mumbai Indians,2026,False,False,False,Suryakumar Yadav
+1701,9,0,,Royal Challengers Bengaluru,2024,False,False,True,Swapnil Singh
+1758,43,11,Australia,Sunrisers Hyderabad,2026,False,False,False,Patrick Cummins
+1772,0,11,West Indies,,,False,False,False,Sheldon Cottrell
+1791,0,2,Netherlands,,,False,False,False,Wesley Barresi
+1801,0,4,United States Of America,,,False,False,False,Nitish Kumar
+1810,0,8,West Indies,,,False,False,False,Devon Thomas
+1813,40,8,India,Mumbai Indians,2026,False,False,False,Deepak Chahar
+1924,8,4,England,Kolkata Knight Riders,2022,False,False,False,Sam Billings
+1941,29,36,New Zealand,Chennai Super Kings,2025,False,False,False,Devon Conway
+1944,2,28,South Africa,Rajasthan Royals,2024,False,False,False,Keshav Maharaj
+2001,0,0,,,,False,False,True,Yashodha Lanka
+2003,13,19,Sri Lanka,Punjab Kings,2023,False,False,False,Bhanuka Rajapaksa
+2054,12,8,Australia,Mumbai Indians,2023,False,False,False,Jason Behrendorff
+2101,41,26,South Africa,Mumbai Indians,2026,False,False,False,Quinton de Kock
+2210,0,4,Bangladesh,,,False,False,False,Sabbir Rahman
+2213,0,14,Bangladesh,,,False,False,False,Soumya Sarkar
+2214,2,18,Afghanistan,Delhi Capitals,2024,False,False,False,Gulbadin Naib
+2218,0,7,Bangladesh,,,False,False,False,Anamul Haque
+2246,0,12,New Zealand,,,False,False,False,Tom Latham
+2258,70,63,India,Chennai Super Kings,2026,False,False,False,Sanju Samson
+2261,61,20,India,Sunrisers Hyderabad,2026,False,False,False,Harshal Patel
+2296,0,2,Scotland,,,False,False,False,Safyaan Sharif
+2304,5,7,England,Mumbai Indians,2022,False,False,False,Tymal Mills
+2315,6,23,England,Mumbai Indians,2025,False,False,False,Reece Topley
+2320,63,8,New Zealand,Mumbai Indians,2026,False,False,False,Trent Boult
+2321,0,1,England,,,False,False,False,Olly Stone
+2334,7,8,South Africa,Chennai Super Kings,2023,False,False,False,Dwaine Pretorius
+2351,0,14,Sri Lanka,,,False,False,False,Danushka Gunathilaka
+2359,0,2,South Africa,,,False,False,False,Prenelan Subrayen
+2361,0,10,South Africa,,,False,False,False,Temba Bavuma
+2364,0,6,Australia,,,False,False,False,Ashton Agar
+2367,43,25,Australia,Sunrisers Hyderabad,2026,False,False,False,Travis Head
+2373,2,1,Australia,Lucknow Super Giants,2024,False,False,False,Ashton Turner
+2379,0,20,England,,,False,False,False,Ben Duckett
+2382,13,21,England,Chennai Super Kings,2026,False,False,False,Jamie Overton
+2399,21,33,Sri Lanka,Delhi Capitals,2026,False,False,False,Dushmantha Chameera
+2407,0,16,Sri Lanka,,,False,False,False,Dhananjaya de Silva
+2411,44,0,,Rajasthan Royals,2026,False,True,True,Sandeep Sharma
+2416,13,35,West Indies,Lucknow Super Giants,2023,False,False,False,Kyle Mayers
+2417,8,72,West Indies,Chennai Super Kings,2026,False,False,False,Akeal Hosein
+2418,0,2,West Indies,,,False,False,False,Justin Greaves
+2436,10,63,Sri Lanka,Rajasthan Royals,2026,False,True,False,Dasun Shanaka
+2439,0,2,Sri Lanka,,,False,False,False,Akila Dananjaya
+2463,0,44,Zimbabwe,,,False,False,False,Ryan Burl
+2483,2,13,South Africa,Delhi Capitals,2024,False,False,False,Lizaad Williams
+2485,0,55,Pakistan,,,True,False,False,Babar Azam
+2490,0,54,Pakistan,,,True,False,False,Mohammad Nawaz
+2523,0,12,New Zealand,,,False,False,False,Will Young
+2526,0,63,New Zealand,,,False,False,False,Ish Sodhi
+2531,3,0,,Rajasthan Royals,2023,False,False,True,Joe Root
+2533,0,23,Afghanistan,,,False,False,False,Najibullah Zadran
+2534,0,1,Afghanistan,,,False,False,False,Rahmat Shah
+2573,6,14,West Indies,Lucknow Super Giants,2022,False,False,False,Evin Lewis
+2633,31,58,West Indies,Gujarat Titans,2026,False,False,False,Jason Holder
+2636,8,46,Australia,Sunrisers Hyderabad,2025,False,False,False,Adam Zampa
+2639,67,37,Australia,Punjab Kings,2026,False,False,False,Marcus Stoinis
+2650,0,3,West Indies,,,False,False,False,Raymon Reifer
+2661,0,8,West Indies,,,False,False,False,Shamarh Brooks
+2671,1,60,Bangladesh,Kolkata Knight Riders,2023,False,False,False,Liton Das
+2680,0,23,Bangladesh,,,False,False,False,Nurul Hasan
+2681,0,46,Bangladesh,,,False,False,False,Taskin Ahmed
+2687,0,51,West Indies,,,False,False,False,Roston Chase
+2750,0,4,Australia,,,False,False,False,Alex Carey
+2756,54,0,,Punjab Kings,2026,False,False,True,Shashank Singh
+2790,2,0,,Punjab Kings,2025,False,False,True,Praveen Dubey
+2847,53,1,India,Mumbai Indians,2026,False,False,False,Shardul Thakur
+2852,5,0,,Sunrisers Hyderabad,2022,False,False,True,Jagadeesha Suchith
+2860,2,0,,Delhi Capitals,2022,False,False,True,KS Bharat
+2862,1,0,,Sunrisers Hyderabad,2025,False,False,True,Sachin Baby
+2863,5,0,,Gujarat Titans,2024,False,False,True,Sandeep Warrier
+2872,1,0,,Royal Challengers Bengaluru,2022,False,False,True,Siddarth Kaul
+2876,68,79,India,Delhi Capitals,2026,False,False,False,Axar Patel
+2877,31,0,,Chennai Super Kings,2025,False,False,True,Vijay Shankar
+2878,34,0,,Delhi Capitals,2025,False,False,True,Mohit Sharma
+2884,3,0,,Lucknow Super Giants,2023,False,False,True,Manan Vohra
+2887,0,4,United States Of America,,,False,False,False,Harmeet Singh
+2892,0,15,Pakistan,,,True,False,False,Asif Ali
+2921,0,50,Pakistan,,,True,False,False,Fakhar Zaman
+2930,3,18,South Africa,Rajasthan Royals,2022,False,False,False,Rassie van der Dussen
+2933,52,25,India,Mumbai Indians,2026,False,False,False,Jasprit Bumrah
+2972,0,8,Hong Kong,,,False,False,False,Yasim Murtaza
+2984,9,48,Zimbabwe,Punjab Kings,2024,False,False,False,Sikandar Raza
+2985,4,10,England,Lucknow Super Giants,2023,False,False,False,Mark Wood
+2996,0,2,Netherlands,,,False,False,False,Stephanus Myburgh
+2997,0,10,Netherlands,,,False,False,False,Paul van Meekeren
+3024,0,40,Pakistan,,,True,False,False,Mohammad Rizwan
+3033,0,5,Pakistan,,,True,False,False,Usman Qadir
+3038,0,5,Pakistan,,,True,False,False,Hussain Talat
+3040,0,2,United Arab Emirates,,,False,False,False,Kashif Daud
+3056,0,39,Pakistan,,,True,False,False,Iftikhar Ahmed
+3077,0,5,Pakistan,,,True,False,False,Usama Mir
+3091,0,39,Pakistan,,,True,False,False,Sahibzada Farhan
+3097,0,12,Pakistan,,,True,False,False,Shan Masood
+3125,71,47,West Indies,Lucknow Super Giants,2026,False,False,False,Nicholas Pooran
+3135,0,2,West Indies,,,False,False,False,Yannic Cariah
+3174,7,25,New Zealand,Chennai Super Kings,2026,False,False,False,Matt Henry
+3253,0,1,United Arab Emirates,,,False,False,False,Rohan Mustafa
+3255,0,1,United Arab Emirates,,,False,False,False,Ahmed Raza 1
+3260,0,2,Afghanistan,,,False,False,False,Hashmatullah Shahidi
+3272,1,14,West Indies,Mumbai Indians,2022,False,False,False,Fabian Allen
+3275,19,35,West Indies,Royal Challengers Bengaluru,2024,False,False,False,Alzarri Joseph
+3276,0,40,West Indies,,,False,False,False,Gudakesh Motie
+3280,0,29,Bangladesh,,,False,False,False,Nazmul Hossain Shanto
+3281,0,13,Bangladesh,,,False,False,False,Mosaddek Hossain
+3282,0,20,Bangladesh,,,False,False,False,Mehidy Hasan Miraz
+3285,0,0,,,,False,False,True,Abu Haider
+3297,63,41,West Indies,Rajasthan Royals,2026,False,True,False,Shimron Hetmyer
+3298,33,23,England,Rajasthan Royals,2026,False,True,False,Jofra Archer
+3299,3,0,,Lucknow Super Giants,2022,False,False,True,Andrew Tye
+3304,0,3,Bangladesh,,,False,False,False,Munim Shahriar
+3306,0,1,Afghanistan,,,False,False,False,Afsar Zazai
+3320,1,0,,Gujarat Titans,2023,False,False,True,Jayant Yadav
+3323,2,51,New Zealand,Rajasthan Royals,2022,False,False,False,Jimmy Neesham
+3330,70,61,India,Mumbai Indians,2026,False,False,False,Hardik Pandya
+3337,0,2,Canada,,,False,False,False,Jeremy Gordon
+3361,0,6,Scotland,,,False,False,False,Michael Leask
+3373,0,8,Hong Kong,,,False,False,False,Aizaz Khan
+3374,0,64,New Zealand,,,False,False,False,Mark Chapman
+3377,0,8,Hong Kong,,,False,False,False,Babar Hayat
+3382,0,8,Hong Kong,,,False,False,False,Nizakat Khan
+3383,0,8,Hong Kong,,,False,False,False,Kinchit Shah
+3415,0,5,Scotland,,,False,False,False,Matthew Cross
+3451,3,0,,Kolkata Knight Riders,2022,False,False,True,Baba Indrajith
+3469,4,0,,Mumbai Indians,2024,False,False,True,Shreyas Gopal
+3489,0,46,Pakistan,,,True,False,False,Salman Agha
+3539,0,8,Australia,,,False,False,False,Ben McDermott
+3543,0,6,Afghanistan,,,False,False,False,Shahidullah Kamal
+3544,0,8,Afghanistan,,,False,False,False,Usman Ghani
+3545,0,1,Afghanistan,,,False,False,False,Ihsanullah Janat
+3550,0,8,Afghanistan,,,False,False,False,Sharafuddin Ashraf
+3578,0,14,Pakistan,,,True,False,False,Imad Wasim
+3595,0,6,Ireland,,,False,False,False,Andy McBrine
+3605,63,35,South Africa,Lucknow Super Giants,2026,False,False,False,Aiden Markram
+3613,0,3,Oman,,,False,False,False,Shakeel Ahmed
+3622,0,9,West Indies,,,False,False,False,Hayden Walsh
+3623,0,8,Pakistan,,,True,False,False,Hasan Ali
+3627,0,7,South Africa,,,False,False,False,Andile Phehlukwayo
+3628,51,18,South Africa,Gujarat Titans,2026,False,False,False,Kagiso Rabada
+3629,9,11,South Africa,Mumbai Indians,2026,False,False,False,Corbin Bosch
+3635,0,9,South Africa,,,False,False,False,Jason Smith
+3637,0,1,South Africa,,,False,False,False,Dayyaan Galiem
+3639,0,60,West Indies,,,False,False,False,Brandon King
+3641,1,13,Australia,Punjab Kings,2026,False,False,False,Ben Dwarshuis
+3644,66,26,India,Delhi Capitals,2026,False,False,False,Kuldeep Yadav
+3645,18,0,,Chennai Super Kings,2026,False,False,True,Sarfaraz Khan
+3647,61,40,India,Punjab Kings,2026,False,False,False,Shreyas Iyer
+3648,45,17,India,Chennai Super Kings,2025,False,False,False,Deepak Hooda
+3651,2,0,,Delhi Capitals,2024,False,False,True,Ricky Bhui
+3653,58,23,India,Lucknow Super Giants,2026,False,False,False,Avesh Khan
+3660,2,16,England,Mumbai Indians,2024,False,False,False,Luke Wood
+3664,0,16,Sri Lanka,,,False,False,False,Binura Fernando
+3669,0,9,Sri Lanka,,,False,False,False,Sadeera Samarawickrama
+3672,1,67,Sri Lanka,Gujarat Titans,2025,False,False,False,Kusal Mendis
+3673,0,2,Sri Lanka,,,False,False,False,Ramesh Mendis
+3683,0,2,Scotland,,,False,False,False,Gavin Main
+3686,0,5,Scotland,,,False,False,False,CB Sole
+3689,0,6,Scotland,,,False,False,False,Mark Watt
+3697,6,24,New Zealand,Delhi Capitals,2026,False,False,False,Kyle Jamieson
+3700,5,42,New Zealand,Kolkata Knight Riders,2026,False,False,False,Tim Seifert
+3720,0,23,Ireland,,,False,False,False,Craig Young
+3727,9,24,Australia,Chennai Super Kings,2026,False,False,False,Matthew Short
+3771,0,5,Netherlands,,,False,False,False,Vivian Kingma
+3772,0,6,Netherlands,,,False,False,False,Logan van Beek
+3775,0,3,Nepal,,,False,False,False,Sompal Kami
+3782,53,0,,Gujarat Titans,2026,False,False,True,M Shahrukh Khan
+3802,0,3,Hong Kong,,,False,False,False,Anshuman Rath
+3832,0,3,Singapore,,,False,False,False,Rezza Gaznavi
+3839,0,3,Singapore,,,False,False,False,Amjad Mahboob
+3849,0,1,Kuwait,,,False,False,False,Ali Zaheer
+3858,0,3,Oman,,,False,False,False,Jatinder Singh
+3871,0,3,Oman,,,False,False,False,Aamir Kaleem
+3876,0,1,Oman,,,False,False,False,Sufyan Mehmood
+3916,71,13,India,Royal Challengers Bengaluru,2026,False,False,False,Jitesh Sharma
+3926,76,0,,Gujarat Titans,2026,False,False,True,Rahul Tewatia
+3954,0,29,Ireland,,,False,False,False,Andrew Balbirnie
+3967,4,0,,Rajasthan Royals,2024,False,False,True,Tom Kohler
+3986,0,6,Australia,,,False,False,False,Matthew Renshaw
+3995,0,2,Zimbabwe,,,False,False,False,Donald Tiripano
+4007,26,21,South Africa,Mumbai Indians,2026,False,False,False,Ryan Rickelton
+4101,29,57,New Zealand,Mumbai Indians,2026,False,False,False,Mitchell Santner
+4102,0,5,Scotland,,,False,False,False,George Munsey
+4106,15,62,New Zealand,Chennai Super Kings,2024,False,False,False,Daryl Mitchell
+4111,0,22,Pakistan,,,True,False,False,Khushdil Shah
+4117,73,51,India,Sunrisers Hyderabad,2026,False,False,False,Ishan Kishan
+4201,0,17,Afghanistan,,,False,False,False,Fareed Malik
+4211,4,0,,Punjab Kings,2026,False,False,True,Vishnu Vinod
+4219,74,0,,Royal Challengers Bengaluru,2026,False,False,True,Krunal Pandya
+4221,0,1,Australia,,,False,False,False,Chris Green
+4229,3,15,South Africa,Lucknow Super Giants,2026,False,False,False,George Linde
+4235,2,2,South Africa,Chennai Super Kings,2023,False,False,False,Sisanda Magala
+4237,0,16,South Africa,,,False,False,False,Tabraiz Shamsi
+4246,50,0,,Delhi Capitals,2026,False,False,True,Nitish Rana
+4260,57,19,South Africa,Sunrisers Hyderabad,2026,False,False,False,Heinrich Klaasen
+4265,50,0,,Delhi Capitals,2026,False,False,True,T Natarajan
+4276,5,0,,Mumbai Indians,2022,False,False,True,Basil Thampi
+4288,6,0,,Kolkata Knight Riders,2026,False,False,True,Navdeep Saini
+4369,9,50,West Indies,Delhi Capitals,2024,False,False,False,Shai Hope
+4372,0,10,Bangladesh,,,False,False,False,Rony Talukder
+4373,22,50,Bangladesh,Delhi Capitals,2025,False,False,False,Mustafizur Rahman
+4391,42,32,England,Sunrisers Hyderabad,2026,False,False,False,Liam Livingstone
+4409,32,45,England,Chennai Super Kings,2025,False,False,False,Sam Curran
+4412,0,12,Netherlands,,,False,False,False,Max ODowd
+4417,0,3,Nepal,,,False,False,False,Karan KC
+4438,0,4,United States Of America,,,False,False,False,Jasdeep Singh
+4450,0,0,,,,False,False,True,Mehran Khan
+4458,0,3,England,,,False,False,False,AHT Donald
+4460,0,5,Sri Lanka,,,False,False,False,Jeffrey Vandersay
+4486,1,0,,Gujarat Titans,2024,False,False,True,BR Sharath
+4487,26,0,,Punjab Kings,2026,False,False,True,Vyshak Kumar
+4489,44,8,India,Gujarat Titans,2026,False,False,False,Prasidh Krishna
+4494,27,0,,Sunrisers Hyderabad,2025,False,False,True,Abhinav Manohar
+4499,0,11,England,,,False,False,False,Saqib Mahmood
+4505,1,4,Australia,Delhi Capitals,2024,False,False,False,Jhye Richardson
+4604,0,1,Australia,,,False,False,False,Mitchell Swepson
+4636,0,13,South Africa,,,False,False,False,Bjorn Fortuin
+4639,0,31,Zimbabwe,,,False,False,False,Wellington Masakadza
+4641,14,26,South Africa,Delhi Capitals,2026,False,False,False,Lungi Ngidi
+4658,0,31,Bangladesh,,,False,False,False,Nasum Ahmed
+4662,0,12,New Zealand,,,False,False,False,Cole McConchie
+4665,0,2,New Zealand,,,False,False,False,Tom Blundell
+4684,0,11,New Zealand,,,False,False,False,Dane Cleaver
+4686,0,13,New Zealand,,,False,False,False,Joshua Clarkson
+4692,30,23,New Zealand,Punjab Kings,2026,False,False,False,Lockie Ferguson
+4695,0,7,New Zealand,,,False,False,False,Nick Kelly
+4703,55,25,India,Lucknow Super Giants,2026,False,False,False,Rishabh Pant
+4708,63,42,India,Kolkata Knight Riders,2026,False,False,False,Rinku Singh
+4716,8,0,,Royal Challengers Bengaluru,2024,False,False,True,Mayank Dagar
+4722,77,45,Afghanistan,Gujarat Titans,2026,False,False,False,Rashid Khan
+4736,17,45,Australia,Lucknow Super Giants,2026,False,False,False,Josh Inglis
+4755,68,48,India,Chennai Super Kings,2026,False,False,False,Shivam Dube
+4773,0,39,Bangladesh,,,False,False,False,Jaker Ali Anik
+4779,1,10,South Africa,Sunrisers Hyderabad,2025,False,False,False,Pieter Willem Mulder
+4780,0,24,Bangladesh,,,False,False,False,Mohammad Saif Hassan
+4784,0,7,South Africa,,,False,False,False,Tony de Zorzi
+4790,0,5,South Africa,,,False,False,False,Lutho Sipamla
+4793,0,7,New Zealand,,,False,False,False,Dean Foxcroft
+4802,0,3,Ireland,,,False,False,False,Stephen Doheny
+4807,11,25,Ireland,Gujarat Titans,2024,False,False,False,Joshua Little
+4812,0,47,Ireland,,,False,False,False,Harry Tector
+4814,0,42,Ireland,,,False,False,False,Lorcan Tucker
+4815,0,22,Ireland,,,False,False,False,Benjamin White
+4816,52,4,India,Chennai Super Kings,2026,False,False,False,Khaleel Ahmed
+4817,8,0,,Sunrisers Hyderabad,2024,False,False,True,Anmolpreet Singh
+4821,29,0,,Royal Challengers Bengaluru,2024,False,False,True,Mahipal Lomror
+4823,41,27,India,Gujarat Titans,2026,False,False,False,Washington Sundar
+4824,10,0,,Sunrisers Hyderabad,2025,False,False,True,Zeeshan Ansari
+4826,0,1,England,,,False,False,False,George Garton
+4830,0,8,West Indies,,,False,False,False,Keacy Carty
+4837,8,24,West Indies,Rajasthan Royals,2023,False,False,False,Obed McCoy
+4838,0,6,West Indies,,,False,False,False,Keemo Paul
+4840,6,19,West Indies,Punjab Kings,2022,False,False,False,Odean Smith
+4842,0,12,West Indies,,,False,False,False,Shamar Springer
+4847,11,41,New Zealand,Kolkata Knight Riders,2026,False,False,False,Finn Allen
+4853,11,48,New Zealand,Gujarat Titans,2026,False,False,False,Glenn Phillips
+4854,18,30,New Zealand,Chennai Super Kings,2025,False,False,False,Rachin Ravindra
+4856,0,24,New Zealand,,,False,False,False,Benjamin Sears
+4857,0,6,New Zealand,,,False,False,False,Nathan Smith
+4867,0,30,Zimbabwe,,,False,False,False,Wesley Madhevere
+4870,0,1,Zimbabwe,,,False,False,False,Kundai Matigimu
+4871,0,2,Zimbabwe,,,False,False,False,Brandon Mavuta
+4874,0,41,Zimbabwe,,,False,False,False,Richard Ngarava
+4876,0,7,Zimbabwe,,,False,False,False,Milton Shumba
+4880,0,1,Nepal,,,False,False,False,Aarif Sheikh
+4881,0,2,Nepal,,,False,False,False,Dipendra Airee
+4882,0,3,Nepal,,,False,False,False,Kushal Bhurtel
+4895,0,57,Sri Lanka,,,False,False,False,Charith Asalanka
+4900,35,56,Sri Lanka,Rajasthan Royals,2025,False,False,False,Wanindu Hasaranga
+4901,0,7,Sri Lanka,,,False,False,False,Asitha Fernando
+4902,0,10,Sri Lanka,,,False,False,False,Avishka Fernando
+4903,0,3,Sri Lanka,,,False,False,False,Lahiru Kumara
+4904,5,37,Sri Lanka,Sunrisers Hyderabad,2025,False,False,False,Kamindu Mendis
+4926,0,44,Pakistan,,,True,False,False,Shadab Khan
+4947,0,5,Sri Lanka,,,False,False,False,Kasun Rajitha
+4974,0,2,Oman,,,False,False,False,Mohammad Nadeem
+4983,0,1,Netherlands,,,False,False,False,Sikander Zulfiqar
+4986,40,75,West Indies,Kolkata Knight Riders,2026,False,False,False,Rovman Powell
+5029,6,0,,Lucknow Super Giants,2023,False,False,True,Prerak Mankad
+5034,10,0,,Rajasthan Royals,2023,False,False,True,Murugan Ashwin
+5039,53,0,,Royal Challengers Bengaluru,2026,False,False,True,Rajat Patidar
+5041,42,17,India,Delhi Capitals,2026,False,False,False,Mukesh Kumar
+5189,0,38,Pakistan,,,True,False,False,Faheem Ashraf
+5231,0,1,West Indies,,,False,False,False,Oshane Thomas
+5379,0,40,Ireland,,,False,False,False,Mark Adair
+5441,0,29,Ireland,,,False,False,False,Barry McCarthy
+5547,0,4,United States Of America,,,False,False,False,Nosthush Kenjige
+5553,40,47,England,Royal Challengers Bengaluru,2026,False,False,False,Phil Salt
+5561,0,2,Scotland,,,False,False,False,Brad Wheal
+5562,3,6,England,Mumbai Indians,2025,False,False,False,Richard Gleeson
+5577,28,0,,Gujarat Titans,2026,False,False,True,Sai Kishore
+5608,8,0,,Kolkata Knight Riders,2023,False,False,True,Narayan Jagadeesan
+5665,1,0,,Mumbai Indians,2022,False,False,True,Sanjay Yadav
+5738,13,19,Australia,Punjab Kings,2026,False,False,False,Xavier Bartlett
+5749,0,1,Hong Kong,,,False,False,False,Shahid Wasif
+5750,0,8,Hong Kong,,,False,False,False,Ehsan Khan
+5808,1,29,Afghanistan,Gujarat Titans,2025,False,False,False,Karim Janat
+5809,18,20,Afghanistan,Lucknow Super Giants,2024,False,False,False,Naveen ul Haq
+5837,0,42,Bangladesh,,,False,False,False,Mahedi Hasan
+5839,0,9,Bangladesh,,,False,False,False,Yasir Ali Chowdhury
+5844,0,3,Bangladesh,,,False,False,False,Ebadot Hossain
+5866,0,7,South Africa,,,False,False,False,Patrick Kruger
+5877,0,4,United States Of America,,,False,False,False,Andries Gous
+5882,0,21,Bangladesh,,,False,False,False,Afif Hossain
+5892,0,11,New Zealand,,,False,False,False,Blair Tickner
+5928,26,0,,Delhi Capitals,2024,False,False,True,Prithvi Shaw
+5939,43,22,Australia,Kolkata Knight Riders,2026,False,False,False,Cameron Green
+5940,13,1,Australia,Mumbai Indians,2023,False,False,False,Riley Meredith
+5944,75,8,India,Gujarat Titans,2026,False,False,False,Mohammed Siraj
+5977,0,6,West Indies,,,False,False,False,Khary Pierre
+5979,0,37,Pakistan,,,True,False,False,Abrar Ahmed
+6025,0,5,New Zealand,,,False,False,False,Henry Shipley
+6035,0,5,United Arab Emirates,,,False,False,False,Chirag Suri
+6059,63,18,India,Chennai Super Kings,2026,False,False,False,Ruturaj Gaikwad
+6097,0,14,England,,,False,False,False,Brydon Carse
+6160,0,21,Sri Lanka,,,False,False,False,Chamika Karunaratne
+6161,38,0,,Chennai Super Kings,2026,False,False,True,Rahul Chahar
+6162,4,0,,Gujarat Titans,2026,False,False,True,Kulwant Khejroliya
+6166,0,1,Australia,,,False,False,False,Jack Edwards
+6172,0,1,Sri Lanka,,,False,False,False,Lasith Croospulle
+6179,0,0,,,,False,False,True,Nipun Ransika
+6180,0,2,Sri Lanka,,,False,False,False,Praveen Jayawickrama
+6188,0,2,Ireland,,,False,False,False,Simi Singh
+6196,0,5,England,,,False,False,False,Josh Tongue
+6203,0,3,Singapore,,,False,False,False,Surendran Chandramohan
+6237,9,0,,Lucknow Super Giants,2026,False,False,True,Manimaran Siddharth
+6256,64,35,India,Kolkata Knight Riders,2026,False,False,False,Varun Chakravarthy
+6272,28,37,England,Mumbai Indians,2026,False,False,False,William Jacks
+6273,0,26,England,,,False,False,False,Tom Banton
+6280,11,49,England,Sunrisers Hyderabad,2023,False,False,False,Harry Brook
+6281,70,62,India,Sunrisers Hyderabad,2026,False,False,False,Abhishek Sharma
+6284,25,0,,Kolkata Knight Riders,2026,False,False,True,Anukul Roy
+6285,1,0,,Delhi Capitals,2022,False,False,True,Kamlesh Nagarkoti
+6286,6,6,India,Kolkata Knight Riders,2022,False,False,False,Shivam Mavi
+6287,22,4,India,Punjab Kings,2026,False,False,False,Yash Thakur
+6288,76,36,India,Gujarat Titans,2026,False,False,False,Shubman Gill
+6297,0,2,England,,,False,False,False,Matthew Parkinson
+6314,61,0,,Royal Challengers Bengaluru,2026,False,False,True,Devdutt Padikkal
+6342,1,13,South Africa,Lucknow Super Giants,2025,False,False,False,Matthew Breetzke
+6350,0,6,Australia,,,False,False,False,Matthew Kuhnemann
+6354,12,11,Australia,Chennai Super Kings,2026,False,False,False,Spencer Johnson
+6355,0,48,Pakistan,,,True,False,False,Shaheen Afridi
+6356,0,1,Bangladesh,,,False,False,False,Khaled Ahmed
+6359,6,0,,Mumbai Indians,2026,False,False,True,Raghu Sharma
+6389,0,6,Bangladesh,,,False,False,False,Tanvir Islam
+6395,0,7,Australia,,,False,False,False,Josh Philippe
+6396,65,47,Australia,Royal Challengers Bengaluru,2026,False,False,False,Tim David
+6398,0,18,Australia,,,False,False,False,Aaron Hardie
+6423,68,9,India,Rajasthan Royals,2026,False,True,False,Riyan Parag
+6433,0,21,Afghanistan,,,False,False,False,Darwish Rasooli
+6436,0,3,Afghanistan,,,False,False,False,Qais Ahmad
+6440,0,4,Pakistan,,,True,False,False,Omair Yousuf
+6441,0,3,Pakistan,,,True,False,False,Abdullah Shafique
+6443,0,0,,,,False,False,True,Rohail Nazir
+6448,0,48,Afghanistan,,,False,False,False,Ibrahim Zadran
+6449,0,2,Afghanistan,,,False,False,False,Wafadar Momand
+6450,1,37,Afghanistan,Mumbai Indians,2025,False,False,False,Mujeeb Ur Rahman
+6457,10,0,,Chennai Super Kings,2026,False,False,True,Urvil Patel
+6460,66,0,,Lucknow Super Giants,2026,False,False,True,Ayush Badoni
+6461,1,0,,Mumbai Indians,2026,False,False,True,Mayank Rawat
+6464,74,79,India,Punjab Kings,2026,False,False,False,Arshdeep Singh
+6466,10,0,,Sunrisers Hyderabad,2025,False,False,True,Atharwa Taide
+6467,22,0,,Royal Challengers Bengaluru,2024,False,False,True,Anuj Rawat
+6473,0,2,Sri Lanka,,,False,False,False,Nuwanidu Fernando
+6483,0,0,,,,False,False,True,Nishan Madushka
+6486,1,0,,Rajasthan Royals,2024,False,False,True,Tanush Kotian
+6487,4,0,,Delhi Capitals,2023,False,False,True,Priyam Garg
+6489,6,0,,Gujarat Titans,2024,False,False,True,Darshan Nalkande
+6494,1,0,,Royal Challengers Bengaluru,2025,False,False,True,Manoj Bhandage
+6503,0,5,United Arab Emirates,,,False,False,False,Zahoor Khan
+6506,0,3,Pakistan,,,True,False,False,Mohammad Imran Randhawa
+6512,5,45,New Zealand,Royal Challengers Bengaluru,2023,False,False,False,Michael Bracewell
+6514,0,6,Netherlands,,,False,False,False,Anil Nidamanuru
+6515,0,13,New Zealand,,,False,False,False,Benjamin Lister
+6518,11,6,Australia,Mumbai Indians,2022,False,False,False,Daniel Sams
+6523,2,37,Zimbabwe,Kolkata Knight Riders,2026,False,False,False,Blessing Muzarabani
+6526,9,0,,Lucknow Super Giants,2026,False,False,True,Himmat Singh
+6565,0,4,New Zealand,,,False,False,False,Katene Clarke
+6566,0,3,New Zealand,,,False,False,False,Matthew John Fisher
+6574,0,15,West Indies,,,False,False,False,Alick Athanaze
+6591,4,0,,Rajasthan Royals,2023,False,False,True,KM Asif
+6628,14,15,South Africa,Gujarat Titans,2025,False,False,False,Gerald Coetzee
+6643,0,20,Bangladesh,,,False,False,False,Hasan Mahmud
+6644,0,0,,,,False,False,True,Mahidul Ankon
+6645,0,4,Bangladesh,,,False,False,False,Mohammad Sheikh
+6651,0,55,Bangladesh,,,False,False,False,Towhid Hridoy
+6664,0,20,Zimbabwe,,,False,False,False,Dion Myers
+6669,31,0,,Lucknow Super Giants,2026,False,False,True,Mohsin Khan
+6671,20,0,,Delhi Capitals,2024,False,False,True,Lalit Yadav
+6674,19,52,Afghanistan,Kolkata Knight Riders,2025,False,False,False,Rahmanullah Gurbaz
+6676,20,51,Afghanistan,Punjab Kings,2026,False,False,False,Azmatullah Omarzai
+6677,0,10,Pakistan,,,True,False,False,Mohammad Hasnain
+6683,22,0,,Mumbai Indians,2026,False,False,True,Mayank Markande
+6697,2,0,,Mumbai Indians,2024,False,False,True,Shams Mulani
+6705,0,5,Hong Kong,,,False,False,False,Scott McKechnie
+6725,24,41,West Indies,Mumbai Indians,2026,False,False,False,Sherfane Rutherford
+6726,33,67,West Indies,Royal Challengers Bengaluru,2026,False,False,False,Romario Shepherd
+6739,0,7,West Indies,,,False,False,False,Amir Jangoo
+6764,0,0,,,,False,False,True,Bukkapatnam Siddharth
+6772,6,0,,Kolkata Knight Riders,2025,False,False,True,Chetan Sakariya
+6783,0,10,Pakistan,,,True,False,False,Azam Khan
+6784,0,0,,,,False,False,True,Hassan Mohammad
+6795,0,2,West Indies,,,False,False,False,Terrance Hinds
+6797,0,7,West Indies,,,False,False,False,Dominic Drakes
+6806,48,2,India,Rajasthan Royals,2026,False,True,False,Tushar Deshpande
+6819,70,22,India,Rajasthan Royals,2026,False,True,False,Yashasvi Jaiswal
+6881,0,13,Netherlands,,,False,False,False,Scott Edwards
+6900,0,3,Scotland,,,False,False,False,Michael Jones
+6919,0,2,Ireland,,,False,False,False,Tyrone Kane
+6922,0,6,Pakistan,,,True,False,False,Abdul Samad
+6926,0,1,England,,,False,False,False,Matty Potts
+6931,10,67,Sri Lanka,Delhi Capitals,2026,False,False,False,Pathum Nissanka
+6932,0,5,Sri Lanka,,,False,False,False,Pramod Madushan
+6984,0,1,Netherlands,,,False,False,False,Saqib Zulfiqar
+6985,0,5,Netherlands,,,False,False,False,Bas de Leede
+6995,0,4,Canada,,,False,False,False,Saad Zafar
+7001,0,4,Canada,,,False,False,False,Dilon Heyliger
+7002,0,4,Canada,,,False,False,False,Nicholas Kirton
+7003,0,3,Canada,,,False,False,False,Rayyan Pathan
+7008,0,4,England,,,False,False,False,Gus Atkinson
+7044,0,5,England,,,False,False,False,Jamie Smith
+7046,0,5,Zimbabwe,,,False,False,False,Tinashe Kamunhukamwe
+7049,0,22,Sri Lanka,,,False,False,False,Kamil Mishara
+7052,0,12,Sri Lanka,,,False,False,False,Dunith Wellalage
+7059,45,0,,Punjab Kings,2026,False,False,True,Nehal Wadhera
+7060,6,0,,Lucknow Super Giants,2026,False,False,True,Arjun Tendulkar
+7094,0,40,Ireland,,,False,False,False,Curtis Campher
+7120,0,3,Nepal,,,False,False,False,Rohit Paudel
+7140,0,2,South Africa,,,False,False,False,Senuran Muthusamy
+7152,0,16,Afghanistan,,,False,False,False,Hazratullah Zazai
+7155,0,3,Sri Lanka,,,False,False,False,Sahan Arachchige
+7201,0,5,Hong Kong,,,False,False,False,Haroon Arshad
+7216,61,0,,Punjab Kings,2026,False,False,True,Prabhsimran Singh
+7227,0,3,Afghanistan,,,False,False,False,Nijat Masood
+7240,12,38,Afghanistan,Rajasthan Royals,2025,False,False,False,FazalHaq Farooqi
+7241,0,2,Afghanistan,,,False,False,False,Ziaur Rahman
+7250,24,0,,Chennai Super Kings,2026,False,False,True,Mukesh Choudhary
+7260,58,4,India,Rajasthan Royals,2026,False,True,False,Dhruv Jurel
+7269,2,0,,Rajasthan Royals,2026,False,True,True,Sushant Mishra
+7270,25,15,South Africa,Lucknow Super Giants,2026,False,False,False,Anrich Nortje
+7304,6,0,,Sunrisers Hyderabad,2024,False,False,True,Sanvir Singh
+7312,19,4,South Africa,Rajasthan Royals,2026,False,True,False,Nandre Burger
+7322,43,0,,Royal Challengers Bengaluru,2025,False,False,True,Yash Dayal
+7325,41,0,,Punjab Kings,2026,False,False,True,Harpreet Brar
+7327,24,0,,Royal Challengers Bengaluru,2026,False,False,True,Rasikh Salam
+7338,0,10,Pakistan,,,True,False,False,Haider Ali
+7341,15,8,Australia,Delhi Capitals,2025,False,False,False,Jake McGurk
+7344,0,41,Bangladesh,,,False,False,False,Shoriful Islam
+7354,0,0,,,,False,False,True,Al Alis
+7355,0,9,Pakistan,,,True,False,False,Tayyab Tahir
+7364,0,49,Pakistan,,,True,False,False,Haris Rauf
+7403,0,2,Nepal,,,False,False,False,Lalit Rajbanshi
+7406,0,5,United Arab Emirates,,,False,False,False,Rizwan CP
+7409,0,3,Nepal,,,False,False,False,Sundeep Jora
+7446,48,0,,Lucknow Super Giants,2026,False,False,True,Abdul Samad
+7472,50,0,,Lucknow Super Giants,2026,False,False,True,Shahbaz Ahmed
+7473,14,0,,Lucknow Super Giants,2025,False,False,True,Akash Deep
+7498,1,0,,Kolkata Knight Riders,2022,False,False,True,Abhijeet Tomar
+7503,63,48,India,Rajasthan Royals,2026,False,True,False,Ravi Bishnoi
+7533,14,0,,Sunrisers Hyderabad,2025,False,False,True,Simarjeet Singh
+7544,59,3,India,Royal Challengers Bengaluru,2026,False,False,False,Venkatesh Iyer
+7545,12,0,,Rajasthan Royals,2024,False,False,True,Kuldeep Sen
+7566,0,4,Zimbabwe,,,False,False,False,Ben Curran
+7574,16,0,,Rajasthan Royals,2025,False,False,True,Kumar Kartikeya Singh
+7625,12,3,India,Punjab Kings,2026,False,False,False,Suryansh Shedge
+7634,0,4,United States Of America,,,False,False,False,Aaron Jones
+7689,1,18,Sri Lanka,Sunrisers Hyderabad,2026,False,False,False,Dilshan Madushanka
+7690,0,62,Pakistan,,,True,False,False,Saim Ayub
+7692,0,1,Pakistan,,,True,False,False,Qasim Akram
+7696,0,17,Pakistan,,,True,False,False,Mohammad Wasim
+7699,0,24,Pakistan,,,True,False,False,Abbas Afridi
+7702,0,5,Sri Lanka,,,False,False,False,Chamindu Wickramasinghe
+7704,0,8,Sri Lanka,,,False,False,False,Pavan Rathnayake
+7709,0,5,Zimbabwe,,,False,False,False,Ainsley Ndlovu
+7710,0,1,Netherlands,,,False,False,False,Brandon Glover
+7741,0,40,Ireland,,,False,False,False,Gareth Delany
+7744,0,9,England,,,False,False,False,Jordan Cox
+7755,0,4,Canada,,,False,False,False,Harsh Thaker
+7756,0,4,Canada,,,False,False,False,Kaleem Sana
+7761,0,3,Canada,,,False,False,False,Ravinderpal Singh
+7808,47,15,South Africa,Punjab Kings,2026,False,False,False,Marco Jansen
+7894,0,14,Zimbabwe,,,False,False,False,Tony Munyonga
+7896,11,0,,Lucknow Super Giants,2026,False,False,True,Akash Singh
+7897,68,61,India,Mumbai Indians,2026,False,False,False,Namboori Tilak Varma
+7900,0,44,Bangladesh,,,False,False,False,Tanzid Hasan
+7901,0,36,Bangladesh,,,False,False,False,Parvez Emon
+7903,0,42,Bangladesh,,,False,False,False,Shamim Hossain
+7904,0,0,,,,False,False,True,Mohammad Chowdhury
+7905,0,32,Bangladesh,,,False,False,False,Tanzim Sakib
+7906,0,0,,,,False,False,True,Rakibul Hasan
+7908,0,0,,,,False,False,True,Mohammad Akbar Ali
+7911,0,5,Scotland,,,False,False,False,Oliver Hairs
+7912,0,12,Netherlands,,,False,False,False,Vikramjit Singh
+7914,0,2,Netherlands,,,False,False,False,Clayton Floyd
+7915,0,4,United States Of America,,,False,False,False,Monank Patel
+7916,0,1,West Indies,,,False,False,False,Karima Gore
+7920,14,29,Australia,Chennai Super Kings,2025,False,False,False,Nathan Ellis
+7924,0,3,Nepal,,,False,False,False,Kushal Malla
+7925,0,1,Singapore,,,False,False,False,Rohan Rangarajan
+7926,0,1,Singapore,,,False,False,False,Manpreet Singh
+7927,0,3,Singapore,,,False,False,False,Janak Prakash
+7928,0,3,Singapore,,,False,False,False,Vinoth Baskaran
+7929,0,3,Singapore,,,False,False,False,Aryaman Sunil Uchil
+7931,0,3,Singapore,,,False,False,False,Aritra Dutta
+7935,0,5,Hong Kong,,,False,False,False,Mohammad Ghazanfar
+7937,0,1,Oman,,,False,False,False,Wasim Ali
+7938,0,0,,,,False,False,True,Sandeep Goud 1
+7942,0,0,,,,False,False,True,Jay Odedara
+7945,0,0,,,,False,False,True,Nasrulla Rana
+7966,0,0,,,,False,False,True,Farmanullah Safi
+7967,51,19,Afghanistan,Chennai Super Kings,2026,False,False,False,Noor Ahmad
+7978,0,9,Zimbabwe,,,False,False,False,Johnathan Campbell
+7981,0,0,,,,False,False,True,Imran Mir
+8005,0,5,United Arab Emirates,,,False,False,False,Zawar Farid
+8009,0,15,United Arab Emirates,,,False,False,False,Junaid Siddique
+8014,0,3,Singapore,,,False,False,False,Avi Dixit
+8033,0,0,,,,False,False,True,Abdul Rahmani
+8040,7,0,,Delhi Capitals,2023,False,False,True,Ripal Patel
+8049,0,28,Pakistan,,,True,False,False,Naseem Shah
+8085,11,0,,Royal Challengers Bengaluru,2024,False,False,True,Suyash Prabhudessai
+8093,0,3,Australia,,,False,False,False,Nikhil Chaudhary
+8101,32,0,,Delhi Capitals,2026,False,False,True,Ashutosh Sharma
+8141,5,0,,Delhi Capitals,2026,False,False,True,Auqib Nabi
+8177,17,0,,Rajasthan Royals,2025,False,False,True,Akash Madhwal
+8182,18,15,South Africa,Rajasthan Royals,2026,False,True,False,Donovan Ferreira
+8217,0,3,United Arab Emirates,,,False,False,False,Ansh Tandon
+8221,42,14,India,Sunrisers Hyderabad,2026,False,False,False,Nitish Reddy
+8238,25,0,,Delhi Capitals,2026,False,False,True,Sameer Rizvi
+8241,0,1,Nepal,,,False,False,False,Lokesh Bam
+8251,5,0,,Gujarat Titans,2026,False,False,True,Kumar Kushagra
+8266,4,0,,Delhi Capitals,2024,False,False,True,Sumit Kumar 1
+8295,0,23,West Indies,,,False,False,False,Matthew Forde
+8298,0,4,West Indies,,,False,False,False,Ramon Simmonds
+8301,0,13,United Arab Emirates,,,False,False,False,Asif Khan
+8311,0,4,England,,,False,False,False,Dan Mousley
+8326,0,9,West Indies,,,False,False,False,Jayden Seales
+8380,0,50,Bangladesh,,,False,False,False,Mohammad Rishad Hossain
+8388,0,0,,,,False,False,True,Ahan Wickramasinghe
+8389,0,1,New Zealand,,,False,False,False,Jayden Lennox
+8405,0,1,Canada,,,False,False,False,Kanwarpal Tathgur
+8408,0,4,Canada,,,False,False,False,Shreyas Movva
+8424,0,7,Australia,,,False,False,False,Tanveer Sangha
+8530,20,0,,Kolkata Knight Riders,2026,False,False,True,Kartik Tyagi
+8580,9,0,,Rajasthan Royals,2025,False,False,True,Yudhvir Singh
+8600,0,40,Zimbabwe,,,False,False,False,Tadiwanashe Marumani
+8611,0,1,New Zealand,,,False,False,False,Adithya Ashok
+8614,3,5,New Zealand,Lucknow Super Giants,2025,False,False,False,William ORourke
+8623,0,1,New Zealand,,,False,False,False,Kristian Clarke
+8632,0,0,,,,False,False,True,Aaqib Khan
+8634,10,0,,Mumbai Indians,2026,False,False,True,Ashwani Kumar
+8637,0,8,United Arab Emirates,,,False,False,False,Vriitya Aravind
+8638,0,9,United Arab Emirates,,,False,False,False,Basil Hameed
+8639,0,4,United Arab Emirates,,,False,False,False,Kartik Meiyappan
+8647,1,29,Afghanistan,Delhi Capitals,2025,False,False,False,Sediqullah Atal
+8652,0,7,Afghanistan,,,False,False,False,Mohammad Ishaq
+8654,14,12,Australia,Punjab Kings,2026,False,False,False,Cooper Connolly
+8661,33,22,Sri Lanka,Kolkata Knight Riders,2026,False,False,False,Matheesha Pathirana
+8664,0,1,Zimbabwe,,,False,False,False,Victor Nyauchi
+8719,0,4,United Arab Emirates,,,False,False,False,Aryan Lakra
+8723,0,3,United Arab Emirates,,,False,False,False,Mohammed Faraazuddin
+8726,0,11,United Arab Emirates,,,False,False,False,Alishan Sharafu
+8727,0,1,United Arab Emirates,,,False,False,False,Sanchit Sharma
+8729,0,0,,,,False,False,True,Haider Shah
+8739,0,15,Pakistan,,,True,False,False,Muhammad Irfan
+8741,0,31,Pakistan,,,True,False,False,Mohammad Haris
+8743,0,0,,,,False,False,True,Muhammad Shehzad
+8746,43,0,,Kolkata Knight Riders,2026,False,False,True,Vaibhav Arora
+8763,1,0,,Mumbai Indians,2023,False,False,True,Duan Jansen
+8771,0,6,South Africa,,,False,False,False,Rubin Hermann
+8805,0,16,South Africa,,,False,False,False,Ottneil Baartman
+15269,0,3,Kuwait,,,False,False,False,Mohammed Aslam
+15271,0,3,Kuwait,,,False,False,False,Usmangani Ibrahim Patel
+15274,0,3,Kuwait,,,False,False,False,Ravija Sandaruwan
+15279,0,3,Kuwait,,,False,False,False,Shiraz Khan
+15280,0,3,Kuwait,,,False,False,False,Sayed Monib
+15303,0,3,Kuwait,,,False,False,False,Bilal Tahir
+15551,0,10,West Indies,,,False,False,False,Ackeem Auguste
+15629,0,4,United States Of America,,,False,False,False,Shayan Jahangir
+16284,0,0,,,,False,False,True,Habibur Rahman Sohan
+16498,0,2,United Arab Emirates,,,False,False,False,Sultan Ahmad
+16536,0,1,Japan,,,False,False,False,Makoto Taniyama
+16559,0,1,Japan,,,False,False,False,Alexander Patmore
+17413,0,7,Ireland,,,False,False,False,Neil Rock
+17419,0,7,Ireland,,,False,False,False,Tim Tector
+17424,0,10,Ireland,,,False,False,False,Graham Hume
+17430,0,2,Ireland,,,False,False,False,Conor Olphert
+17432,0,16,Ireland,,,False,False,False,Ross Adair
+17898,0,0,,,,False,False,True,Bilal Sami
+17910,0,3,Afghanistan,,,False,False,False,Mohammad Akram
+17911,0,3,Afghanistan,,,False,False,False,Nangeyalia Kharote
+17918,0,1,Afghanistan,,,False,False,False,Abdullah Tarakhail
+17919,0,1,Afghanistan,,,False,False,False,Mohammad Saleem Safi
+17937,0,2,Afghanistan,,,False,False,False,Zubaid Akbari
+19012,0,8,Hong Kong,,,False,False,False,Zeeshan Ali
+19020,0,4,Hong Kong,,,False,False,False,Ateeq Iqbal
+19124,0,0,,,,False,False,True,Anas Khan
+19125,0,7,Hong Kong,,,False,False,False,Ayush Shukla
+19145,0,4,Pakistan,,,True,False,False,Aamer Jamal
+19147,0,6,Zimbabwe,,,False,False,False,Faraz Akram
+19307,0,2,Sri Lanka,,,False,False,False,Tharindu Rathnayake
+19309,0,6,Sri Lanka,,,False,False,False,Lahiru Udara
+19312,8,30,Sri Lanka,Royal Challengers Bengaluru,2025,False,False,False,Nuwan Thushara
+19315,3,2,Sri Lanka,Sunrisers Hyderabad,2024,False,False,False,Vijayakanth Viyaskanth
+19316,38,61,Sri Lanka,Rajasthan Royals,2025,False,False,False,Maheesh Theekshana
+19530,0,9,Pakistan,,,True,False,False,Shahnawaz Dhani
+19535,0,0,,,,False,False,True,Rejaur Rahman Raja
+19714,36,0,,Delhi Capitals,2026,False,False,True,Abishek Porel
+19754,0,1,United Arab Emirates,,,False,False,False,Raja Khan
+19781,1,15,Australia,Punjab Kings,2025,False,False,False,Mitchell Owen
+19892,0,1,Ireland,,,False,False,False,Theo van Woerkom
+19894,0,11,New Zealand,,,False,False,False,Mitchell Hay
+19902,0,7,Netherlands,,,False,False,False,Tim Pringle
+19969,0,0,,,,False,False,True,Mubasir Khan
+19998,2,0,,Chennai Super Kings,2023,False,False,True,Rajvardhan Hangargekar
+20005,27,0,,Gujarat Titans,2026,False,False,True,Arshad Khan
+20006,39,2,India,Kolkata Knight Riders,2026,False,False,False,Ramandeep Singh
+20023,3,0,,Lucknow Super Giants,2023,False,False,True,Karan Sharma
+20163,0,2,Nepal,,,False,False,False,Aasif Sheikh
+20175,0,1,Nepal,,,False,False,False,Nandan Yadav
+20229,0,3,Pakistan,,,True,False,False,Mohammad Ali
+20310,0,2,Pakistan,,,True,False,False,Ahmed Daniyal
+20316,0,1,Nepal,,,False,False,False,Shahab Alam
+20327,0,27,Pakistan,,,True,False,False,Usman Khan
+20693,2,0,,Rajasthan Royals,2023,False,False,True,Kuldip Yadav
+20702,47,31,South Africa,Delhi Capitals,2026,False,False,False,Tristan Stubbs
+20704,0,15,Pakistan,,,True,False,False,Salman Mirza
+20802,1,0,,Rajasthan Royals,2023,False,False,True,Abdul Basith
+20894,12,0,,Delhi Capitals,2023,False,False,True,Aman Khan
+20989,3,0,,Sunrisers Hyderabad,2023,False,False,True,Vivrant Sharma
+21196,0,0,,,,False,False,True,Mohammad Waheed
+21388,0,0,,,,False,False,True,Martin Coetzee
+21777,0,2,Zimbabwe,,,False,False,False,Tafadzwa Tsiga
+21780,0,3,Zimbabwe,,,False,False,False,Ernest Masuku
+21781,0,26,Zimbabwe,,,False,False,False,Clive Madande
+21784,0,21,Zimbabwe,,,False,False,False,Brad Evans
+21786,0,2,Zimbabwe,,,False,False,False,Tanaka Chivanga
+21790,0,21,Zimbabwe,,,False,False,False,Tashinga Musekiwa
+21791,0,3,Zimbabwe,,,False,False,False,J Gumbie
+22134,0,20,Zimbabwe,,,False,False,False,Luke Jongwe
+22137,0,11,Ireland,,,False,False,False,Fionn Hand
+22187,0,6,Netherlands,,,False,False,False,Ryan Klein
+22188,0,7,Netherlands,,,False,False,False,Aryan Dutt
+22471,0,14,Ireland,,,False,False,False,Matthew Humphreys
+22565,0,20,United Arab Emirates,,,False,False,False,Muhammad Waseem
+22920,6,38,New Zealand,Royal Challengers Bengaluru,2026,False,False,False,Jacob Duffy
+23311,9,28,England,Royal Challengers Bengaluru,2026,False,False,False,Jacob Bethell
+23450,57,1,India,Gujarat Titans,2026,False,False,False,Sai Sudharsan
+23467,8,0,,Chennai Super Kings,2026,False,False,True,Gurjapneet Singh
+24017,0,44,Zimbabwe,,,False,False,False,Brian Bennett
+24346,0,3,Kuwait,,,False,False,False,Mohamed Shafeeq
+24372,0,0,,,,False,False,True,Muzahir Raza
+24381,0,5,Netherlands,,,False,False,False,Shariz Ahmad
+24473,0,4,England,,,False,False,False,Sonny Baker
+24475,0,13,England,,,False,False,False,Rehan Ahmed
+24767,0,2,Bangladesh,,,False,False,False,Ripon Mondol
+24779,0,6,Afghanistan,,,False,False,False,Ijaz Ahmadzai
+24803,0,3,Nepal,,,False,False,False,Gulshan Jha
+24812,0,4,Scotland,,,False,False,False,Chris Greaves
+24887,0,10,Zimbabwe,,,False,False,False,Innocent Kaia
+24978,0,2,Scotland,,,False,False,False,Jack Jarvis
+24982,0,3,Scotland,,,False,False,False,Charlie Tear
+25011,0,3,Ireland,,,False,False,False,Liam Mccarthy
+25030,0,10,Pakistan,,,True,False,False,Zaman Khan
+25048,23,8,India,Sunrisers Hyderabad,2024,False,False,False,Umran Malik
+25128,0,9,South Africa,,,False,False,False,Nqabayomzi Peter
+25132,7,0,,Sunrisers Hyderabad,2026,False,False,True,Praful Hinge
+25138,11,0,,Sunrisers Hyderabad,2026,False,False,True,Harsh Dubey
+25139,20,0,,Rajasthan Royals,2026,False,True,True,Shubham Dubey
+25213,27,17,South Africa,Chennai Super Kings,2026,False,False,False,Dewald Brevis
+25216,0,6,South Africa,,,False,False,False,Andile Simelane
+25231,0,3,Oman,,,False,False,False,Samay Shrivastava
+25341,0,0,,,,False,False,True,Mahfuzur Rabby
+25353,0,0,,,,False,False,True,Numan Shah
+25501,0,3,Kuwait,,,False,False,False,Meet Bhavsar
+25502,0,2,Kuwait,,,False,False,False,Adnan Idrees
+25507,0,3,Kuwait,,,False,False,False,Edson Silva
+25534,0,12,New Zealand,,,False,False,False,Chad Bowes
+25669,31,0,,Punjab Kings,2026,False,False,True,Priyansh Arya
+25679,14,0,,Sunrisers Hyderabad,2026,False,False,True,Salil Arora
+25809,0,3,United States Of America,,,False,False,False,Juanoy Drysdale
+26514,0,0,,,,False,False,True,Nimesh Vimukthi
+26519,0,11,Sri Lanka,,,False,False,False,Janith Liyanage
+26530,0,0,,,,False,False,True,Treveen Mathew
+26646,0,11,United Arab Emirates,,,False,False,False,Rahul Chopra
+26663,4,13,South Africa,Rajasthan Royals,2025,False,False,False,Kwena Maphaka
+26728,0,1,South Africa,,,False,False,False,Jordan Hermann
+26795,0,3,Australia,,,False,False,False,Joel Davies
+26830,8,0,,Gujarat Titans,2026,False,False,True,Nishant Kumar Sindhu
+26834,8,0,,Mumbai Indians,2026,False,False,True,Raj Bawa
+26839,0,3,Pakistan,,,True,False,False,Haseebullah Khan
+26843,0,3,Pakistan,,,True,False,False,Maaz Sadaqat
+26848,0,0,,,,False,False,True,Ghazi Ghouri
+26854,0,0,,,,False,False,True,SM Meherob Hasan
+26906,35,0,,Kolkata Knight Riders,2026,False,False,True,Angkrish Raghuvanshi
+26909,4,0,,Delhi Capitals,2023,False,False,True,Yash Dhull
+26913,5,0,,Chennai Super Kings,2025,False,False,True,Shaik Rasheed
+26916,0,3,United States Of America,,,False,False,False,Yasir Mohammad
+26988,0,2,Oman,,,False,False,False,Jitenkumar Ramanandi
+27004,0,2,Oman,,,False,False,False,Hassnain Shah
+27059,0,0,,,,False,False,True,Karan Sonavale
+27071,0,3,Oman,,,False,False,False,Vinayak Shukla
+27137,0,3,Oman,,,False,False,False,Hammad Mirza
+27259,0,0,,,,False,False,True,Jishan Alam
+27364,0,3,United Arab Emirates,,,False,False,False,Simranjeet Kang
+27373,0,1,United Arab Emirates,,,False,False,False,Muhammad Farooq
+27380,0,8,United Arab Emirates,,,False,False,False,Harshit Kaushik
+27390,0,3,United Arab Emirates,,,False,False,False,Matiullah Khan
+27391,0,0,,,,False,False,True,Vishnu Sukumaran
+27460,0,2,United Arab Emirates,,,False,False,False,Ali Naseer
+27464,0,5,United Arab Emirates,,,False,False,False,Aayan Afzal Khan
+27465,0,0,,,,False,False,True,Nilansh Keswani
+27466,0,10,United Arab Emirates,,,False,False,False,Dhruv Parashar
+27469,0,6,United Arab Emirates,,,False,False,False,Aryansh Sharma
+27504,0,3,Sri Lanka,,,False,False,False,Dushan Hemantha
+27516,0,4,Pakistan,,,True,False,False,Ihsanullah Ihsanullah
+27517,0,0,,,,False,False,True,Yasir Khan
+27743,0,9,Netherlands,,,False,False,False,DT Doram
+27956,2,0,,Chennai Super Kings,2022,False,False,True,Prashant Solanki
+27959,13,0,,Mumbai Indians,2023,False,False,True,Hrithik Shokeen
+27960,10,12,India,Lucknow Super Giants,2026,False,False,False,Mayank Yadav
+27962,3,0,,Royal Challengers Bengaluru,2024,False,False,True,Saurav Chauhan
+27964,25,0,,Chennai Super Kings,2026,False,False,True,Anshul Kamboj
+27970,1,0,,Punjab Kings,2023,False,False,True,Gurnoor Brar
+28018,6,2,India,Gujarat Titans,2026,False,False,False,Ashok Sharma
+28021,4,0,,Kolkata Knight Riders,2026,False,False,True,Saurabh Dubey
+28185,0,3,West Indies,,,False,False,False,Kamil Pooran
+28655,0,6,United Arab Emirates,,,False,False,False,Muhammad Rohid
+28664,0,0,,,,False,False,True,Zahid Ali
+28756,0,12,United Arab Emirates,,,False,False,False,Haider Ali
+28788,0,0,,,,False,False,True,Tanish Suri
+28908,0,2,Zimbabwe,,,False,False,False,Vincent Masekesa
+28911,0,1,Zimbabwe,,,False,False,False,John Masara
+28915,0,10,Zimbabwe,,,False,False,False,Trevor Gwandu
+28967,0,29,New Zealand,,,False,False,False,Tim Robinson
+28970,0,5,South Africa,,,False,False,False,Connor Esterhuizen
+29066,0,19,New Zealand,,,False,False,False,Zakary Foulkes
+29075,0,2,Nepal,,,False,False,False,Aadil Ansari
+29080,0,4,United Arab Emirates,,,False,False,False,Muhammad Khan
+29558,0,2,United Arab Emirates,,,False,False,False,Muhammad Arfan
+29699,0,1,Japan,,,False,False,False,Ibrahim Takahashi
+29706,0,1,Japan,,,False,False,False,Wataru Miyauchi
+29709,0,1,Japan,,,False,False,False,Reo Sakurano
+29833,0,1,Afghanistan,,,False,False,False,Bashir Ahmad
+29888,34,14,India,Kolkata Knight Riders,2025,False,False,False,Harshit Rana
+30925,0,5,Scotland,,,False,False,False,Bradley Currie
+30927,0,2,United States Of America,,,False,False,False,Saiteja Mukkamalla
+31107,0,3,Kuwait,,,False,False,False,Yasin Patel
+31227,1,0,,Punjab Kings,2024,False,False,True,Vidhwath Kaverappa
+31513,0,4,United Arab Emirates,,,False,False,False,Ethan Dsouza
+31518,3,0,,Lucknow Super Giants,2026,False,False,True,Akshat Raghuwanshi
+31529,4,0,,Mumbai Indians,2026,False,False,True,Robin Minz
+31835,0,3,Singapore,,,False,False,False,Akshay Roopak Puri
+31836,0,2,Singapore,,,False,False,False,Aman Desai
+32244,1,0,,Delhi Capitals,2026,False,False,True,Tripurana Vijay
+32399,0,4,Canada,,,False,False,False,Aaron Johnson
+32401,0,2,Canada,,,False,False,False,Akhil Kumar
+32705,0,0,,,,False,False,True,Faridoon Dawoodzai
+32862,11,4,Afghanistan,Mumbai Indians,2026,False,False,False,Allah Ghazanfar
+33009,0,2,England,,,False,False,False,John Turner
+33067,6,0,,Sunrisers Hyderabad,2026,False,False,True,Ravichandran Smaran
+33114,0,0,,,,False,False,True,Milan Rathnayake
+33440,0,2,Singapore,,,False,False,False,Adwitya Bhargava
+33443,0,3,United Arab Emirates,,,False,False,False,Sabir Ali
+33675,0,0,,,,False,False,True,Mohammad Naeem
+33969,0,12,Zimbabwe,,,False,False,False,Tinotenda Maposa
+34466,0,2,Pakistan,,,True,False,False,Arafat Minhas
+34485,0,17,Pakistan,,,True,False,False,Sufiyan Muqeem
+34522,0,3,Scotland,,,False,False,False,Brandon McMullen
+34527,0,1,Scotland,,,False,False,False,Jasper John Davidson
+34546,0,2,Oman,,,False,False,False,Aryan Bisht
+34880,0,0,,,,False,False,True,Saad Masood
+34928,0,1,Japan,,,False,False,False,Kendel Fleming
+34929,0,1,Japan,,,False,False,False,Lachlan Lake
+34969,5,0,,Gujarat Titans,2026,False,False,True,Manav Suthar
+35071,1,0,,Rajasthan Royals,2025,False,False,True,Kunal Rathore
+35072,1,0,,Chennai Super Kings,2026,False,False,True,Ramakrishna Ghosh
+35102,0,2,Oman,,,False,False,False,Zikria Islam
+35120,0,0,,,,False,False,True,Narayan Saishiv
+35122,0,3,Oman,,,False,False,False,Shah Faisal
+35133,0,0,,,,False,False,True,Sufyan Yousuf
+35318,11,0,,Sunrisers Hyderabad,2026,False,False,True,Sakib Hussain
+35506,0,4,West Indies,,,False,False,False,Quentin Sampson
+36551,0,1,West Indies,,,False,False,False,Zishan Motara
+36553,0,6,West Indies,,,False,False,False,Jediah Blades
+36981,2,0,,Royal Challengers Bengaluru,2024,False,False,True,Himanshu Sharma
+36982,39,0,,Royal Challengers Bengaluru,2026,False,False,True,Suyash Sharma
+36983,1,0,,Punjab Kings,2023,False,False,True,Mohit Rathee
+36984,1,0,,Mumbai Indians,2023,False,False,True,Raghav Goyal
+37052,37,10,India,Mumbai Indians,2026,False,False,False,Naman Dhir
+37201,0,7,West Indies,,,False,False,False,Jewel Andrew
+37311,0,0,,,,False,False,True,Shiv Mathur
+37572,0,0,,,,False,False,True,Shafiq Jan
+37731,1,0,,Punjab Kings,2025,False,False,True,Musheer Khan
+37879,0,5,Pakistan,,,True,False,False,Khawaja Nafay
+37939,0,5,Bangladesh,,,False,False,False,Nahid Rana
+38044,0,1,Australia,,,False,False,False,Mahli Beardman
+38050,0,0,,,,False,False,True,Isitha Wijesundera
+38855,0,22,Bangladesh,,,False,False,False,Mohammad Saifuddin
+39374,0,10,United Arab Emirates,,,False,False,False,Muhammad Zohaib
+39637,0,0,,,,False,False,True,Garuka Sanketh
+39638,0,0,,,,False,False,True,Vishen Halambage
+39640,0,2,Sri Lanka,,,False,False,False,Sineth Jayawardena
+39657,22,17,Sri Lanka,Sunrisers Hyderabad,2026,False,False,False,Eshan Malinga
+39991,0,3,Canada,,,False,False,False,Parveen Kumar
+41110,0,1,United Arab Emirates,,,False,False,False,Mayank Kumar
+41503,8,0,,Rajasthan Royals,2026,False,True,True,Yash Punja
+41509,0,0,,,,False,False,True,Yayin Rai
+41541,0,1,Japan,,,False,False,False,Declan Suzuki
+42548,0,9,United Arab Emirates,,,False,False,False,Muhammad Jawadullah
+42810,0,6,Netherlands,,,False,False,False,Noah Croes
+42811,0,8,Netherlands,,,False,False,False,Michael Levitt
+42845,4,0,,Lucknow Super Giants,2026,False,False,True,Arshin Kulkarni
+43250,0,2,Canada,,,False,False,False,Dilpreet Singh Bajwa
+43774,1,0,,Punjab Kings,2024,False,False,True,Shivam Singh
+43798,3,7,South Africa,Rajasthan Royals,2026,False,True,False,Lhuan Pretorius
+43917,3,0,,Mumbai Indians,2026,False,False,True,Krish Bhagat
+45381,2,0,,Mumbai Indians,2025,False,False,True,PV Satyanarayan Raju
+45457,0,4,Netherlands,,,False,False,False,Zach Lion Cachet
+45749,10,0,,Lucknow Super Giants,2026,False,False,True,Mukul Choudhary
+45966,6,0,,Chennai Super Kings,2026,False,False,True,Prashant Veer
+46066,19,0,,Delhi Capitals,2026,False,False,True,Vipraj Nigam
+46137,11,0,,Chennai Super Kings,2026,False,False,True,Kartik Sharma
+46378,0,8,Netherlands,,,False,False,False,Kyle Klein
+46929,0,5,South Africa,,,False,False,False,Dian Forrester
+46982,0,0,,,,False,False,True,Shahid Aziz
+46996,0,0,,,,False,False,True,Mohammad Faiq
+47017,0,0,,,,False,False,True,Mohammad Jnr
+47050,1,23,West Indies,Lucknow Super Giants,2024,False,False,False,Shamar Joseph
+47314,0,2,Afghanistan,,,False,False,False,Wafiullah Tarakhil
+47370,24,0,,Sunrisers Hyderabad,2026,False,False,True,Aniket Verma
+47371,0,1,United Arab Emirates,,,False,False,False,Zuhaid Zubair
+47403,0,5,Zimbabwe,,,False,False,False,Newman Nyamhuri
+47542,0,1,Japan,,,False,False,False,Charles Hinze
+47694,0,0,,,,False,False,True,Omid Rahman
+47724,0,9,Pakistan,,,True,False,False,Jahandad Khan
+48278,0,0,,,,False,False,True,Ubaid Shah
+48504,13,0,,Chennai Super Kings,2026,False,False,True,Ayush Mhatre
+48557,5,0,,Mumbai Indians,2025,False,False,True,Vignesh Puthur
+48575,4,0,,Delhi Capitals,2026,False,False,True,Sahil Parakh
+48616,0,3,Bangladesh,,,False,False,False,Abdul Saqlain
+48953,2,0,,Mumbai Indians,2026,False,False,True,Danish Malewar
+49003,0,28,Pakistan,,,True,False,False,Hasan Nawaz
+49027,0,13,New Zealand,,,False,False,False,Bevon Jacobs
+49265,0,0,,,,False,False,True,Ahmed Tariq
+49268,0,1,United Arab Emirates,,,False,False,False,Sohaib Khan
+50062,0,3,South Africa,,,False,False,False,Nqobani Mokoena
+50284,23,8,India,Rajasthan Royals,2026,False,True,False,Vaibhav Sooryavanshi
+52338,0,3,Pakistan,,,True,False,False,Usman Tariq
+54404,0,1,Japan,,,False,False,False,Benjamin Ito
+55747,0,6,Ireland,,,False,False,False,Benjamin Calitz
+56685,0,10,Afghanistan,,,False,False,False,Abdullah Ahmadzai
+56817,13,0,,Sunrisers Hyderabad,2026,False,False,True,Shivang Kumar
+56830,5,0,,Delhi Capitals,2026,False,False,True,Madhav Tiwari
+57747,0,1,Scotland,,,False,False,False,Charlie Cassell
+58134,23,0,,Lucknow Super Giants,2026,False,False,True,Digvesh Rathi
+58135,2,0,,Kolkata Knight Riders,2026,False,False,True,Tejasvi Dahiya
+58246,20,13,India,Lucknow Super Giants,2026,False,False,False,Prince Yadav
+58727,3,0,,Royal Challengers Bengaluru,2026,False,False,True,Abhinandan Singh
+59045,0,2,Ireland,,,False,False,False,Jai Moondra
+60609,0,3,West Indies,,,False,False,False,Navin Bidaisee
+60689,0,0,,,,False,False,True,Zawad Abrar
+60700,1,0,,Rajasthan Royals,2026,False,True,True,Ravi Singh
+64604,0,2,Hong Kong,,,False,False,False,Kalhan Challu
+65598,0,1,Japan,,,False,False,False,Shoma Slater
+66103,0,2,Afghanistan,,,False,False,False,Noor Rahman
+67036,13,0,,Rajasthan Royals,2026,False,True,True,Brijesh Sharma
+67864,0,2,Ireland,,,False,False,False,Matt Hollard
+68410,0,0,,,,False,False,True,Rahmatullah Zadran
+69806,0,0,,,,False,False,True,Mohammad Salman
+71727,0,2,Pakistan,,,True,False,False,Razaullah Razaullah
